@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Sousou/app/src/main/res/drawable/backgroun_color.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Sousou/app/src/main/res/drawable/button_background.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Sousou/app/src/main/res/drawable/item_background_color.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Sousou/app/src/main/res/layout/activity_alwoqo_wa_tawqof.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Sousou/app/src/main/res/layout/activity_examen_series.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Sousou/app/src/main/res/layout/activity_feedback.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Sousou/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Sousou/app/src/main/res/layout/activity_main2.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Sousou/app/src/main/res/layout/activity_main3.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Sousou/app/src/main/res/layout/activity_main4.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Sousou/app/src/main/res/layout/activity_main5.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Sousou/app/src/main/res/layout/activity_qawaid_sayr.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Sousou/app/src/main/res/layout/activity_roaya.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Sousou/app/src/main/res/layout/activity_saiq.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Sousou/app/src/main/res/layout/activity_splash_screen.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Sousou/app/src/main/res/layout/activity_tachir_toroqi2.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Sousou/app/src/main/res/layout/activity_tachwir_toroqi.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/Sousou/app/src/main/res/menu/menu.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/Sousou/app/src/main/res/drawable/backgroun_color.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/pc/Sousou/app/src/main/res/drawable/background_color.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/pc/Sousou/app/src/main/res/layout/activity_alwoqo_wa_tawqof.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/Sousou/app/src/main/res/layout/activity_asbaqia.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/Sousou/app/src/main/res/layout/activity_ataqabo_wa_atajawoz.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/Sousou/app/src/main/res/layout/activity_corrige_alwoqof.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/Sousou/app/src/main/res/layout/activity_corrige_asbaqia.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/Sousou/app/src/main/res/layout/activity_corrige_isaafat.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/Sousou/app/src/main/res/layout/activity_corrige_mafahim.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/Sousou/app/src/main/res/layout/activity_corrige_roaya.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/Sousou/app/src/main/res/layout/activity_corrige_saiq.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/Sousou/app/src/main/res/layout/activity_corrige_tachwiir2.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/Sousou/app/src/main/res/layout/activity_corrige_tachwir.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/Sousou/app/src/main/res/layout/activity_corrige_tajawoz.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/Sousou/app/src/main/res/layout/activity_corriger_qawaid_sair.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/Sousou/app/src/main/res/layout/activity_feedback.xml" value="0.209375" />
+        <entry key="..\:/Users/pc/Sousou/app/src/main/res/layout/activity_isaafat_awalia.xml" value="0.15364583333333334" />
+        <entry key="..\:/Users/pc/Sousou/app/src/main/res/layout/activity_mafahim_tatbiqia.xml" value="0.15364583333333334" />
+        <entry key="..\:/Users/pc/Sousou/app/src/main/res/layout/activity_main.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/pc/Sousou/app/src/main/res/layout/activity_main2.xml" value="0.22" />
+        <entry key="..\:/Users/pc/Sousou/app/src/main/res/layout/activity_main3.xml" value="0.15364583333333334" />
+        <entry key="..\:/Users/pc/Sousou/app/src/main/res/layout/activity_main4.xml" value="0.15364583333333334" />
+        <entry key="..\:/Users/pc/Sousou/app/src/main/res/layout/activity_main5.xml" value="0.15364583333333334" />
+        <entry key="..\:/Users/pc/Sousou/app/src/main/res/layout/activity_qawaid_sayr.xml" value="0.15364583333333334" />
+        <entry key="..\:/Users/pc/Sousou/app/src/main/res/layout/activity_roaya.xml" value="0.15364583333333334" />
+        <entry key="..\:/Users/pc/Sousou/app/src/main/res/layout/activity_saiq.xml" value="0.15364583333333334" />
+        <entry key="..\:/Users/pc/Sousou/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/pc/Sousou/app/src/main/res/layout/activity_tachir_toroqi2.xml" value="0.15364583333333334" />
+        <entry key="..\:/Users/pc/Sousou/app/src/main/res/layout/activity_tachwir_toroqi.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

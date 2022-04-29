@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ExamenSeries">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:textAlignment="center"
+            android:background="#300101">
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="match_parent"
+                android:layout_height="88dp"
+                android:background="@drawable/item_background_color"
+                android:textColor="@color/gnt_white"
+                android:onClick="aaraba"
+                android:text="العربة "
+                android:textSize="30sp"
+                />
+
+            <Button
+                android:id="@+id/butto_tajawoz"
+                android:layout_width="match_parent"
+                android:layout_height="88dp"
+                android:background="@drawable/item_background_color"
+                android:textColor="@color/gnt_white"
+                android:text="التجاوز و التقابل"
+                android:onClick="tajawoz"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/button_Sayr"
+                android:layout_width="match_parent"
+                android:layout_height="88dp"
+                android:background="@drawable/item_background_color"
+                android:textColor="@color/gnt_white"
+                android:text="قواعد السير"
+                android:onClick="sayer"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/button_alwoqof"
+                android:layout_width="match_parent"
+                android:layout_height="88dp"
+                android:background="@drawable/item_background_color"
+                android:textColor="@color/gnt_white"
+                android:text="الوقوف و التوقف"
+                android:onClick="alwoqof"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/button_alwoqof2"
+                android:layout_width="match_parent"
+                android:layout_height="88dp"
+                android:background="@drawable/item_background_color"
+                android:textColor="@color/gnt_white"
+                android:text="التشوير الطرقي "
+                android:onClick="tachwir"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/button_tachwir2"
+                android:layout_width="match_parent"
+                android:layout_height="88dp"
+                android:background="@drawable/item_background_color"
+                android:textColor="@color/gnt_white"
+                android:text="التشوير الطرقي 2"
+                android:onClick="tachwirrr"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/button12"
+                android:layout_width="match_parent"
+                android:layout_height="88dp"
+                android:background="@drawable/item_background_color"
+                android:textColor="@color/gnt_white"
+                android:text="السائق "
+                android:onClick="saiq"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/button_alwoqof3"
+                android:layout_width="match_parent"
+                android:layout_height="88dp"
+                android:background="@drawable/item_background_color"
+                android:textColor="@color/gnt_white"
+                android:text="الاسعافات "
+                android:onClick="isaafat"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/button_mafahim"
+                android:layout_width="match_parent"
+                android:layout_height="88dp"
+                android:background="@drawable/item_background_color"
+                android:textColor="@color/gnt_white"
+                android:onClick="mafahim"
+                android:text="مفاهيم تطبيقية"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/button_roaya"
+                android:layout_width="match_parent"
+                android:layout_height="88dp"
+                android:background="@drawable/item_background_color"
+                android:textColor="@color/gnt_white"
+                android:onClick="roaya"
+                android:text="الرؤية الاضاءة "
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/button_asbaqia"
+                android:layout_width="match_parent"
+                android:layout_height="88dp"
+                android:background="@drawable/item_background_color"
+                android:textColor="@color/gnt_white"
+                android:text="اعطاء حق الاسبقية"
+                android:onClick="asbaqia"
+                android:textSize="30sp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

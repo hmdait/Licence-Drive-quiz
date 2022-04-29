@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Feedback"
+    tools:ignore="PrivateResource"
+    android:background="@drawable/background1">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="20dp"
+                tools:ignore="UselessParent">
+
+                <TextView
+                    android:id="@+id/fb"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:gravity="center_vertical"
+                    android:text="@string/fb_type"
+                    android:textSize="18sp"
+                    android:textColor="@color/colorAccent"/>
+
+                <RadioGroup
+                    android:id="@+id/fb_type"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:textColor="@color/colorAccent">
+
+                    <RadioButton
+                        android:id="@+id/fb_type_c"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/complaint"
+                        android:textColor="@color/colorAccent"/>
+
+                    <RadioButton
+                        android:id="@+id/fb_type_s"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/suggest"
+                        android:textColor="@color/colorAccent"/>
+
+                    <RadioButton
+                        android:id="@+id/fb_type_r"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:checked="true"
+                        android:text="@string/review"
+                        android:textColor="@color/colorAccent"/>
+                </RadioGroup>
+
+                <TextView
+                    android:id="@+id/fb_text_title"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:gravity="bottom"
+                    android:text="@string/fb_title"
+                    android:textSize="18sp"
+                    android:textColor="@color/colorAccent"/>
+
+                <EditText
+                    android:id="@+id/fb_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:cursorVisible="true"
+                    android:ems="10"
+                    android:gravity="top"
+                    android:hint="@string/type_your_text"
+                    android:inputType="textCapSentences|textMultiLine"
+                    android:lines="4"
+                    android:autofillHints=" "
+                    android:textColor="@color/colorAccent"
+                    android:background="@drawable/button_background"/>
+
+                <Space
+                    android:id="@+id/space"
+                    android:layout_width="match_parent"
+                    android:layout_height="20dp" />
+
+                <TextView
+                    android:id="@+id/rating"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:gravity="center_vertical"
+                    android:text="@string/how_would_you_rate_our_app"
+                    android:textSize="18sp"
+                    android:textColor="@color/colorAccent"/>
+
+                <RatingBar
+                    android:id="@+id/app_ratings"
+                    style="@style/Widget.AppCompat.RatingBar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:numStars="5"
+                    android:saveEnabled="true" />
+
+                <Button
+                    android:id="@+id/fb_submit"
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:background="@drawable/button_background"
+                    android:text="@string/submit"
+                    android:textColor="@color/colorAccent"
+                    android:textSize="40sp"
+                    tools:targetApi="lollipop" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

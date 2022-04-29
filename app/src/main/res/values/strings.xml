@@ -1,0 +1,49 @@
+<resources>
+
+    <string name="interstitial_ad_alworof">ca-app-pub-3762456917778098/9925767658</string>
+    <string name="interstitial_ad_asbaqia">ca-app-pub-3762456917778098/4228456522</string>
+    <string name="interstitial_ad_isaafat">ca-app-pub-3762456917778098/6089715997</string>
+    <string name="interstitial_ad_mafahim">ca-app-pub-3762456917778098/3463552656</string>
+    <string name="interstitial_ad_roaya">ca-app-pub-3762456917778098/2070579933</string>
+    <string name="interstitial_ad_qawaid_sayr">ca-app-pub-3762456917778098/7289734137</string>
+    <string name="interstitial_ad_saiq">ca-app-pub-3762456917778098/8463215003</string>
+    <string name="interstitial_ad_tachwir">ca-app-pub-3762456917778098/5898144301</string>
+    <string name="interstitial_ad_tajawoz">ca-app-pub-3762456917778098/4177868526</string>
+    <string name="interstitial_ad_silsila_jadida">ca-app-pub-3762456917778098/2719933738</string>
+    <string name="banners_ad_maintActivity">ca-app-pub-3762456917778098/7491176009</string>
+    <string name="banners_ad_maintActivity2">ca-app-pub-3762456917778098/1269931325</string>
+
+
+
+    <string name="replay">Replay</string>
+    <string name="resultat">Résultat :</string>
+    <string name="todo">TODO</string>
+    <string name="id_interstial_faceads">YOUR_PLACEMENT_ID</string>
+    <string name="taakid">تاكيد</string>
+    <string name="title_activity_feedback">حدثنا بما لديك</string>
+    <string name="fb_type">المرجو اختيار نوع رد الفعل</string>
+    <string name="fb_title">حدثنا بما لديك</string>
+    <string name="complaint">شكوى</string>
+    <string name="suggest">اقتراح</string>
+    <string name="review">مراجعة</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="type_your_text">اكتب هنا…</string>
+    <string name="how_would_you_rate_our_app">ماهو تقييمك للتطبيق؟</string>
+    <string name="submit">ارسال</string>
+    <string name="conact_nous">تواصل معنا</string>
+    <string name="ques_examen">اسئلة الامتحان</string>
+    <string name="nouveau_serie">سلسلة جديدة</string>
+    <string name="welcom">مرحبا</string>
+    <string name="temp">temp</string>
+    <string name="question_1">Question : 1</string>
+    <string name="soual_ghayr_mafhom">سؤال غير مفهوم</string>
+    <string name="_4">4</string>
+    <string name="_3">3</string>
+    <string name="_2">2</string>
+    <string name="_1">1</string>
+    <string name="tashih">تصحيح</string>
+    <string name="taw9if_lwa9t">توقيف الوقت</string>
+    <string name="r_sultat">Résultat :</string>
+
+
+</resources>
